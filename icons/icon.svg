@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs><radialGradient id="bg"><stop stop-color="#315963"/><stop offset="1" stop-color="#10282f"/></radialGradient><linearGradient id="crystal" x2=".8" y2="1"><stop stop-color="#e9ffff"/><stop offset=".45" stop-color="#79d6df"/><stop offset="1" stop-color="#5962b2"/></linearGradient></defs>
+<path fill="url(#bg)" d="M0 0h512v512H0z"/>
+<circle cx="256" cy="256" r="210" fill="none" stroke="#d9c68c" stroke-width="3" opacity=".65"/>
+<path d="M122 346Q83 240 142 171M390 346Q429 240 370 171" fill="none" stroke="#8bc5ae" stroke-width="8" stroke-linecap="round"/>
+<path d="M123 316Q77 309 80 268Q127 275 123 316M119 261Q85 230 106 202Q141 224 119 261M389 316Q435 309 432 268Q385 275 389 316M393 261Q427 230 406 202Q371 224 393 261" fill="#8bc5ae"/>
+<path d="M256 96 345 249 256 399 167 249Z" fill="url(#crystal)" stroke="#c9f3ef" stroke-width="4"/>
+<path d="M256 96 230 248 256 399 291 249Z" fill="#e1fbff" opacity=".6"/><path d="m167 249 63-1 26-152M230 248l61 1 54 0" fill="none" stroke="#fff" stroke-width="3" opacity=".65"/>
+<path d="m379 92 8 23 23 8-23 8-8 23-8-23-23-8 23-8Zm-246 36 5 15 15 5-15 5-5 15-5-15-15-5 15-5Z" fill="#f6dda3"/>
+<circle cx="167" cy="391" r="4" fill="#f6dda3"/><circle cx="353" cy="397" r="4" fill="#f6dda3"/>
+</svg>
